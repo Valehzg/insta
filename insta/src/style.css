@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+}
+.gral{
+padding: 0;
+background-color: #302b2b;
+height: 50px;
+color: white;
+display: flex;
+flex-direction:row ;
+width: 100%;
+}
+
+.logo{
+  margin: 10px 1090px 10px 10px;
+}
+
+.logo img {
+  width: 120px; /* Ajusta el tamaño según tus necesidades */
+  height: auto; /* Mantiene la proporción original */
+  max-width: 100%; /* Evita que la imagen se salga del contenedor */
+}
+
+.cora , .mensaje{
+  margin: 10px;
+}
+
+.cora img {
+  width: 30px; /* Ajusta el tamaño según tus necesidades */
+  height: auto; /* Mantiene la proporción original */
+  max-width: 100%; 
+}
+
+.mensaje img {
+  width: 30px; /* Ajusta el tamaño según tus necesidades */
+  height: auto; /* Mantiene la proporción original */
+  max-width: 100%; 
+}
+
+.histo {
+  background-color: rgb(26, 25, 24);
+  height: 120px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.historias {
+  width: 100px;  /* Ajusta el ancho según tus necesidades */
+  height: 100px; /* Ajusta la altura igual al ancho */
+  border-radius: 50%; /* Hace que el div sea un círculo perfecto */
+  margin: 10px;
+  background-color: rgb(82, 185, 14);
+  padding: 3px; /* Puedes ajustar esto según tus necesidades */
+  box-sizing: border-box; /* Incluye el padding en el tamaño total del div */
+}
+
+
+.foto {
+  width: 95px;  /* Ajusta el ancho según tus necesidades */
+  height: 95px; /* Ajusta la altura igual al ancho */
+  border-radius: 50%; /* Hace que el div sea un círculo perfecto */
+  background-color: rgb(177, 177, 151);
+  box-sizing: border-box; /* Incluye el padding en el tamaño total del div */
+  padding: 0;
+}
+.post{
+  background-color: #302b2b;
+}
+.usuario{
+  height: 40px;
+}
+
+.imagen{ 
+  
+}
